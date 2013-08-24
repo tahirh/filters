@@ -34,9 +34,3 @@ end
 t = t + 1;
 prev_avg = avg;
 end
-
-
-
-
-
-
